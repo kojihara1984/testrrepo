@@ -1,1 +1,4 @@
-# testrrepo
+# testrepo 
+
+初めてのリポジトリ。
+201911009
